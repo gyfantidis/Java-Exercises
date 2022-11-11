@@ -5,12 +5,12 @@
 
  You can see the solution of each exercise, in the codingExercise/src folder.
 
-Coding Exercise 01 : Speed Converter
-Coding Exercise 02 : MegaBytes Converter
-Coding Exercise 03 : Barking Dog
-Coding Exercise 04 : Leap Year Calculator
-Coding Exercise 05 : DecimalComparator
-Coding Exercise 06 : Equal Sum Checker
+* Coding Exercise 01 : Speed Converter
+* Coding Exercise 02 : MegaBytes Converter
+* Coding Exercise 03 : Barking Dog
+*Coding Exercise 04 : Leap Year Calculator
+*Coding Exercise 05 : DecimalComparator
+*Coding Exercise 06 : Equal Sum Checker
 Coding Exercise 07 : Teen Number Checker
 Coding Exercise 08 : Area Calculator
 Coding Exercise 09 : Minutes To Years and Days Calculator
