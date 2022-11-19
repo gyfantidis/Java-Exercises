@@ -45,3 +45,9 @@
 * Coding Exercise 38 : Encapsulation
 * Coding Exercise 39 : Polymorphism
 * Coding Exercise 40 : Bill's Burgers
+* Coding Exercise 41 : Sorted Array
+* Coding Exercise 42 : Minimum Element
+* Coding Exercise 43 : Reverse Array
+* Coding Exercise 44 : Mobile Phone
+* Coding Exercise 45 : Banking
+* Coding Exercise 46 : Playlist
