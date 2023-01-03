@@ -50,4 +50,8 @@
 * Coding Exercise 43 : Reverse Array
 * Coding Exercise 44 : Mobile Phone
 * Coding Exercise 45 : Banking
-* Coding Exercise 46 : Playlist
+* Coding Exercise 46 : Playlist A
+* Coding Exercise 47 : Interface
+* Coding Exercise 48 : Playlist B
+* Coding Exercise 49 : SearchTree
+
